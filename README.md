@@ -1,8 +1,8 @@
 # RumahAnggaran — Household Budget Planner
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/best-household-budget-site-20261126-1457)
-[![Built with Muse](https://img.shields.io/badge/built%20with-Muse-green)](https://muse.ai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · best-household-budget-site-20261126-1457](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/heruruben-hub/household-budget-site-20261126/rank.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/heruruben-hub/household-budget-site-20261126/reward.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
 
 RumahAnggaran is a household budget site for the Prasetyo family of
 Jakarta — and for any household that wants to see where its money actually
